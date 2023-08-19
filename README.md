@@ -49,6 +49,5 @@
     </p>
 
 
-
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=cammi500/></p>
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=cammi500&show_icons=true alt=Thiriaung /> </p>
 
