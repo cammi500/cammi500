@@ -49,5 +49,7 @@
     </p>
 
 
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=cammi500&show_icons=true&theme=tokyonight alt=Thiriaung /> </p>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cammi500&show_icons=true&theme=tokyonight)
 
