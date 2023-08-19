@@ -6,7 +6,7 @@
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=thiriaung alt=thiriaung/> </p>
 
 
-<p align="left"> <a href="https://twitter.com/cammi500" target="blank"><img src="https://img.shields.io/twitter/follow/cammi500?logo=twitter&style=for-the-badge" alt="cammi500" /></a> </p>
+
 
 
 - 🤔 I’m learning full stack development
