@@ -13,7 +13,7 @@
 
 - 🌱   I'm addicted to learning and growing everyday
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **laravel**
 
 - 📫 Reach me at **thiriaung812003@gmail.com**
 
