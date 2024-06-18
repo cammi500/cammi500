@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Thiri Aung</h1>
 
-<h3 align="center">A young front end developer </h3>
+<h3 align="center">A YOUNG FRONTEND DEVELOPER </h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=thiriaung alt=thiriaung/> </p>
 
 
